@@ -1,0 +1,13 @@
+{
+  "name": "ATELIER — Sua rotina, com intenção",
+  "short_name": "ATELIER",
+  "description": "Organize tarefas, cultive hábitos e acompanhe sua evolução.",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#f4f1e8",
+  "theme_color": "#f4f1e8",
+  "icons": [
+    {"src":"icon.svg","sizes":"any","type":"image/svg+xml","purpose":"any maskable"}
+  ]
+}
